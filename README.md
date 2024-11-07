@@ -59,6 +59,6 @@ pip install romaji-phonem
 
 ## ライセンス
 
-[![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)][MIT License]
+[![MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2024 もち (Mochi)
