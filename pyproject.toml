@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "romaji-phonem"
-version = "0.1.0"
+version = "0.2.0"
 description = "アルファベット列をローマ字読みする軽量 Python ライブラリ."
 license = "MIT"
 authors = ["もち (Mochi) <mochi.takosavi@gmail.com>"]
